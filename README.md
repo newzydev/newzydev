@@ -36,11 +36,11 @@
 
 <h2 align="center">🔥 My Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newzydev&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newzydev&theme=dark" width="80%" alt="GitHub Streak">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newzydev&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=newzydev&show_icons=true&theme=dark" width="80%" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newzydev&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newzydev&layout=compact&theme=dark" width="80%" alt="Top Languages">
 </p>
