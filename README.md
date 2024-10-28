@@ -7,9 +7,6 @@
   <a href="https://www.instagram.com/ss.newzy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.twitch.tv/newzydev">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
 </p>
 
 <p align="center">
@@ -38,9 +35,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=newzydev&theme=dark" width="80%" alt="GitHub Streak">
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newzydev&show_icons=true&theme=dark" width="80%" alt="GitHub Stats">
-</p> -->
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newzydev&layout=compact&theme=dark" width="80%" alt="Top Languages">
 </p>
