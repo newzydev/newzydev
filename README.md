@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  รับเรื่องติดต่อสอบถามผ่าน LINE! เพิ่มบัญชีทางการเป็นเพื่อนได้ผ่านลิงก์ด้านล่างแล้วสอบถามหรือขอคำปรึกษาผ่านห้องแชทได้เลย!
+  <a href="https://lin.ee/zApfgiyJ">https://lin.ee/zApfgiyJ</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=newzydev&color=brightgreen" alt="Profile View Count">
 </p>
 
