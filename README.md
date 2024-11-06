@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://qr-official.line.me/gs/M_800hyhgu_GW.png?oat_content=qr">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=newzydev&color=brightgreen" alt="Profile View Count">
 </p>
 
