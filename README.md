@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/EJS-555555?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
 </p>
 
 <h2 align="center">🔥 My Stats:</h2>
